@@ -15,7 +15,7 @@
 TARGET = wince
 
 # Program version
-VERSION=0.3.8-pre
+VERSION=0.3.8
 
 # Output directory
 OUT=out/
